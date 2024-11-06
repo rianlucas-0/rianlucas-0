@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! My name is Rian Lucas
 
 <!--
 **Ripy93/Ripy93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
