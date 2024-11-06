@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake animation](https://github.com/<Ripy93>/<Ripy93>/blob/output/github-contribution-grid-snake2.svg)
-
 <div>
 <a href="https://github.com/Ripy93">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripy93&layout=compact&langs_count=7&theme=dark"/>
